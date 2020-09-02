@@ -1,3 +1,3 @@
 # Portfolio
 
-My Portfolio link  https://badalchat.github.io/Portfolio/.
+My Portfolio link  https://badalchat.github.io/Portfolio/Portfolio/.
